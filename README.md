@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm currently working on Webdev/Personal Projects,and an aspiring Linux Dev.
+### Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev.
 **OS: Arch Linux/2021.10.01**
 
 <!--
