@@ -1,5 +1,4 @@
 ### Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev.
-**OS: Arch Linux/2021.10.01**
 
 <!--
 **WaylonDN/waylondn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
