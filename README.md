@@ -1,5 +1,5 @@
-### Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev.
-### I am going to be using this repository for notes and particularly interesting information I come across.
+## Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev.
+I am going to be using this repository for notes and particularly interesting information I come across.
 
 <!--
 **WaylonDN/waylondn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
