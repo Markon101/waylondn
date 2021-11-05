@@ -107,6 +107,7 @@ while True:
     else:
         print("Invalid choice!")       
 
+#the story continues further
 print("As you study the map closer, you begin to feel some deja vu come over you.")
 print("It looks as though you've seen this place before...")
 print("It's not far from the land of the undead. That's where you recognize it from.")
@@ -145,6 +146,8 @@ while True:
             else:
                 print("Invalid choice!")
         break
+
+    #if choice is garden
     elif choice == "Garden":
         print("You take the path to the bright gardens.")
         print("Nothing seems to be out of place")
@@ -154,5 +157,7 @@ while True:
         print("He gives you a map with the general area of where the horse was lost circled.")
         print("You decide to leave the garden.")
         break
+    
+    #otherwise error message: invalid choice
     else:
         print("Invalid choice!")
