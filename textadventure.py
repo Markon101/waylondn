@@ -75,8 +75,7 @@ while True:
             print("You look down at the map, you wonder if any of this is actually real.")
             print("You pinch yourself, no it's not a dream.")
             print("Then who was that mysterious stranger, and why did he give you a map?")
-            if choice == 'y' or 'Y':
-                break
+            break
         
         #this choice the stranger just vanishes without giving you the map
         elif choice == 'n' or 'N': 
