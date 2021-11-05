@@ -102,9 +102,57 @@ while True:
         else:
             print("Invalid Choice! ")
         break
-    
+
     #otherwise print invalid choice        
     else:
         print("Invalid choice!")       
 
 print("As you study the map closer, you begin to feel some deja vu come over you.")
+print("It looks as though you've seen this place before...")
+print("It's not far from the land of the undead. That's where you recognize it from.")
+print("You attempted to travel there once before, but before you could reach the dungeon you were swarmed by skeletons.")
+print("You decide to go asking around about some gear.")
+
+#loopback 
+while True:
+    choice = input("Would you like to go to the Market or the Garden? ").capitalize()
+
+    #if choice is market
+    if choice == "Market":
+        print("You decide to take the path down to the old market.")
+        print("As you travel further down the path you hear rustling in the bushes.")
+
+        #create loopback here if argument invalid otherwise player dead or you survive
+        while True:
+            choice = input("Do you want to check it out? Y/N: ").capitalize()
+            
+            #if choice is yes
+            if choice == "Y":
+                print("You get closer to the bushes for inspection and see a creature you've never seen before.")
+                print("You go to pick it up but it growls loudly at you.")
+                print("You decide to back away from the creature.")
+                print("You continue down the path and arrive at the market.")
+                break
+
+            #if choice is no
+            elif choice == "N":
+                print("You continue down the path ignoring the rustling sounds.")
+                print("All of a sudden something ambushes you!")
+                print("It uses a mighty force and throws you against a wall crushing you.")
+                exit()
+            
+            #otherwise error message: invalid choice
+            else:
+                print("Invalid choice!")
+        break
+    elif choice == "Garden":
+        print("You take the path to the bright gardens.")
+        print("Nothing seems to be out of place")
+        print("Upon arriving at the gardens you stumble across a knight with a sad look on his face.")
+        print("You overhear him speaking of how he has lost his horse.")
+        print("You decide to go on a quest to find the horse for the knight.")
+        print("He gives you a map with the general area of where the horse was lost circled.")
+        print("You decide to leave the garden.")
+        break
+    else:
+        print("Invalid choice!")
