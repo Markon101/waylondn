@@ -17,3 +17,12 @@ A complete collection of Discord emojis for Windows, Android, iOS and macOS
 
 wallhaven.cc
 [Awesome Wallpapers](https://wallhaven.cc)
+
+Visual Studio Code Open-Source IDE
+[Visual Studio Code](https://code.visualstudio.com/)
+
+Fedora OS Documentation
+[Fedora Documentation](https://docs.fedoraproject.org/en-US/docs/)
+
+Distrowatch
+[Distrowatch Linux Distros](https://distrowatch.com/)
