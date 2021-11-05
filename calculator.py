@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #this function adds two numbers
 def add(x,y):
     return x+y
@@ -44,8 +46,8 @@ while True:
 
         #check if user wants another calculation
         #break the while loop if answer is no
-        next_calculation = input("Let's do next calculation? (Y/N): ")
-        if next_calculation == "N":
+        next_calculation = input("Let's do next calculation? (y/n): ")
+        if next_calculation == "n":
             break
     #otherwise print invalid choice
     else:
