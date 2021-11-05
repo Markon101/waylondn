@@ -23,6 +23,7 @@ print("2.Subtract")
 print("3.Multiply")
 print("4.Divide")
 
+#creates a looping statement that breaks when you don't want to perform another calculation
 while True:
     #take input from user
     choice = input("Enter choice(1/2/3/4): ")

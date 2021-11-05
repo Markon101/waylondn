@@ -9,7 +9,7 @@ while True:
     player_class = input("What class are you? ")
 
     #checks to see if player class is a Warrior, Rogue, Mage, or Cleric
-    #asks to confirm choice, if not then loops back to reask the question
+    #asks to confirm choice, if not then loops back to re-ask the question
     if player_class in ('Warrior','Rogue','Mage','Cleric'):
         if player_class == 'Warrior':
             print("So, you're a Warrior? ")
@@ -43,3 +43,4 @@ while True:
 #prints "Welcome to the world of Lindus!"
 print(f"Hello, {player_name}. You are a {player_class}.")
 print("Welcome to the world of Lindus!")
+print("In this world you'll have to make many choices to overcome obstacles within your path.")

@@ -7,5 +7,5 @@
  Motherboard: MSI MS-7680 H61MU-E35
 
  CPU: Intel® Core™ i3-2100 CPU @ 3.10GHz × 4
- 
+
  GPU: GeForce GTS 450/PCIe/SSE2
