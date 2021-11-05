@@ -92,7 +92,7 @@ while True:
             #this choice the stranger just vanishes without giving you the map
             elif choice == "N":
                 print("The stranger just vanishes right before your eyes.")
-                break
+                exit()
 
             #otherwise print invalid choice
             else:
@@ -102,5 +102,8 @@ while True:
         else:
             print("Invalid Choice! ")
         break
-    
+    #otherwise print invalid choice        
+    else:
+        print("Invalid choice!")       
+
 print("As you study the map closer, you begin to feel some deja vu come over you.")
