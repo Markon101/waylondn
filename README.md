@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev
 
 I am going to be using this repository for notes and particularly interesting information I come across.
-One of my current projects is creating a full text adventure game within Python.
+One project I'm currently working on is a small text adventure game.
 
 The beginning of this repository will be for code as I learn to develop more efficiently using different methods.
 
