@@ -102,6 +102,7 @@ while True:
         else:
             print("Invalid Choice! ")
         break
+    
     #otherwise print invalid choice        
     else:
         print("Invalid choice!")       
