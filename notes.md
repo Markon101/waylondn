@@ -1,3 +1,5 @@
+# Bookmarks to important pages
+
 Clan/Team Discord Setup
 [Clan/Team Discord Setup | Xenon Bot](https://xenon.bot/templates/bUVHUSU8RwqM)
 

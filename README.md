@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev.
+# Hi there! 👋 I'm currently working on Webdev/Personal Projects, and an aspiring Linux Dev
+
 I am going to be using this repository for notes and particularly interesting information I come across.
 
 The beginning of this repository will be for code as I learn to develop more efficiently using different methods.
