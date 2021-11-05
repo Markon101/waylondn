@@ -40,7 +40,7 @@ while True:
             print(a, "-", d, "=", subtract(a,d))
 
         elif choice == '3':
-            print(a, "+", d, "=", multiply(a,d))
+            print(a, "*", d, "=", multiply(a,d))
 
         elif choice == '4':
             print(a, "/", d, "=", divide(a,d))
