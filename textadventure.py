@@ -53,6 +53,7 @@ print("The stranger looks up at you with glaring eyes piercing through you, you 
 print("The stranger begins walking towards you reaching for something, what do you do?")
 
 #creates a looping statement in which you make your first real choice
+
 while True:
     choice = input("1. Attack him. 2. Watch to see what he does. ")
     
@@ -71,14 +72,14 @@ while True:
         #if choice is y or Y you take the map
         if choice == 'y' or 'Y':
             print("The stranger hands you the map, he then vanishes in front of your eyes.")   
-        #you check out the map
+            #you check out the map
             print("You look down at the map, you wonder if any of this is actually real.")
             print("You pinch yourself, no it's not a dream.")
             print("Then who was that mysterious stranger, and why did he give you a map?")
             break
         
         #this choice the stranger just vanishes without giving you the map
-        elif choice == 'n' or 'N': 
+        if choice == 'n' or 'N': 
             print("The stranger just vanishes right before your eyes.")
 
 print("As you study the map closer, you begin to feel some deja vu come over you.")
