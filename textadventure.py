@@ -151,7 +151,7 @@ while True:
     elif choice == "Garden":
         print("You take the path to the bright gardens.")
         print("Nothing seems to be out of place")
-        print("Upon arriving at the gardens you stumble across a knight with a sad look on his face.")
+        print("Upon arriving at the gardens you stumble across a knight with a depressed look on his face.")
         print("You overhear him speaking of how he has lost his horse.")
         print("You decide to go on a quest to find the horse for the knight.")
         print("He gives you a map with the general area of where the horse was lost circled.")
