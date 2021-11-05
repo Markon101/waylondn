@@ -69,10 +69,14 @@ while True:
         print("It's a map of a dungeon.")
         choice = input("Do you take it? Y/N? ")
         if choice == "y" or "Y":
-            print("The stranger hands you the map, he then vanishes in front of your eyes.")
+            print("The stranger hands you the map, he then vanishes in front of your eyes.")   
+        #you check out the map
+            print("You look down at the map, you wonder if any of this is actually real.")
+            print("You pinch yourself, no it's not a dream.")
+            print("Then who was that mysterious stranger, and why did he give you a map?")
             break
         
         #this choice the stranger just vanishes without giving you the map
-        else:
+        if choice == "n" or "N":
             print("The stranger just vanishes right before your eyes.")
             break
